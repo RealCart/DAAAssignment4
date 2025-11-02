@@ -17,6 +17,8 @@
 
 This implementation suite focuses on three fundamental directed graph algorithms, each optimized for specific use cases in dependency analysis, scheduling, and path computation. Our testing framework evaluates performance across 9 carefully designed test graphs ranging from 6 to 100 nodes.
 
+<img width="715" height="392" alt="Снимок экрана 2025-11-02 в 22 47 11" src="https://github.com/user-attachments/assets/87212934-79ff-4f89-9d1f-438bf1724082" />
+
 **Core Algorithms:**
 - Strongly Connected Components (Tarjan's Algorithm)
 - Topological Ordering (Kahn's BFS-based approach)
